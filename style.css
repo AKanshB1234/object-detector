@@ -1,0 +1,15 @@
+body{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+canvas{background-color: cornsilk;
+    
+}
+.heading{
+    font-size: 15px;
+    margin-top: 0px;
+     box-shadow: 5px 5px 5px rgb(139, 205, 72) ;
+     width: 100%;
+     letter-spacing: 3px;
+}    
